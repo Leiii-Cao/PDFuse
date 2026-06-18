@@ -33,9 +33,8 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-## Pretrained Model
-
-PDFuse uses Stable Diffusion v1.5 as the latent diffusion prior. Please download the Stable Diffusion v1.5 model from Hugging Face:
+## 🚀 Inference
+Please download the Stable Diffusion v1.5 model from Hugging Face:
 
 - [Stable-Diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
 The default model path used by the code is:
@@ -43,7 +42,6 @@ The default model path used by the code is:
 ./pretrained/stable-diffusion-v1-5/
 ```
 
-## Inference
 The repository includes several demo image pairs under `data/`.
 ```bash
 bash test.sh
@@ -52,9 +50,9 @@ bash test.sh
 bash test_E.sh
 ```
 
-## Citation
+## 📝 Citation
 
-If our work assists your research, feel free to give us a star or cite us using:
+If our work assists your research, feel free to give us a star ⭐ or cite us using:
 
 ```bibtex
 @article{cao2026projection,
@@ -67,7 +65,7 @@ If our work assists your research, feel free to give us a star or cite us using:
 }
 ```
 
-## Contact
+## 📬 Contact
 
 If you have any questions or discussions, please send me an email:
 
