@@ -31,6 +31,7 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+pip install --force-reinstall "huggingface-hub==0.23.3"
 ```
 
 ## 🚀 Inference
