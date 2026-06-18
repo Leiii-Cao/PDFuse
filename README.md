@@ -50,7 +50,6 @@ bash test.sh
 ```bash
 bash test_E.sh
 ```
-![PDFuse result](assets/result.jpg)
 
 ## 📝 Citation
 
